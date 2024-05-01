@@ -4,4 +4,4 @@ Tutorial - Build A Drawing or Paint App in HTML CSS &amp; JavaScript | Drawing A
 # link
 https://youtu.be/y84tBZo8GFo
 
-![screenshot](drawing-js-app.jpg)
+![screenshot](drawing-js-app.png)
